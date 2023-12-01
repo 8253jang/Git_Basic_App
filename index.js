@@ -14,10 +14,11 @@ function add(a,b,c=10){
 }
 
 function multiply(a,b){
-  retrun a*b;
+  return a*b;
 }
 function logout(username){
   if(username!==undefined){
     //로그아웃처리한다.
   }
 }
+
